@@ -6,4 +6,6 @@ This is a vanilla JavaScript project undertaken to learn the fundamentals of Jav
 - working with arrays
 - functions
 - querySelector
-- 
+- conditions
+- loops
+- Math.random()
