@@ -9,3 +9,5 @@ This is a vanilla JavaScript project undertaken to learn the fundamentals of Jav
 - conditions
 - loops
 - Math.random()
+- addEventListener
+- removeEventListener
