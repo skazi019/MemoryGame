@@ -11,3 +11,6 @@ This is a vanilla JavaScript project undertaken to learn the fundamentals of Jav
 - Math.random()
 - addEventListener
 - removeEventListener
+- CSS flexbox
+
+This project is hosted on [Netlify](https://memorygame-kaushalsharma.netlify.app) for you to give it a try. Let me know what you think!
